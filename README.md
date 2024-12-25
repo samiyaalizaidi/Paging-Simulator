@@ -13,6 +13,20 @@ This repository contains a C-based paging simulator designed to implement and de
 
 ## Usage
 
+### Prerequisites
+Before running the simulator, ensure the following dependencies are installed:
+
+- **GCC compiler**: To compile the simulator and utilities.
+- **Make**: For building the project using the Makefile.
+
+### Cloning the Repository
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/samiyaalizaidi/Paging-Simulator.git
+cd Paging-Simulator
+```
+
 ### Compilation
 
 To compile the simulator, use the provided `Makefile`:
